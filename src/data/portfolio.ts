@@ -74,10 +74,10 @@ export const portfolio: Project[] = [
     description: "Área privada com autenticação e indicadores operacionais.",
     goal: "Centralizar dados que estavam espalhados em planilhas.",
     solution: "Login, permissões por perfil e painéis com os números que a operação consulta todo dia.",
-    image: "",
+    image: "/deshboard.png",
     technologies: ["React", "TypeScript", "APIs", "Banco de dados"],
     features: ["Autenticação", "Permissões", "Relatórios", "Automações"],
-    demo: true,
+    demo: false,
   },
   {
     id: "demo-personalizado",
