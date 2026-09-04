@@ -50,10 +50,10 @@ export const portfolio: Project[] = [
     description: "Página única construída em torno de uma única ação de conversão.",
     goal: "Maximizar cadastros durante uma campanha de tempo limitado.",
     solution: "Narrativa em blocos curtos, prova visual e formulário sempre a um clique de distância.",
-    image: "",
+    image: "/pagelançamento.png",
     technologies: ["React", "Tailwind CSS", "Analytics"],
     features: ["Copy de conversão", "Animações de entrada", "Medição de eventos", "Carregamento rápido"],
-    demo: true,
+    demo: false,
   },
   {
     id: "demo-ecommerce",
