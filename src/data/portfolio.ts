@@ -65,7 +65,7 @@ export const portfolio: Project[] = [
     image: "/ecomerce.jpg",
     technologies: ["React", "TypeScript", "Banco de dados", "Integrações"],
     features: ["Catálogo", "Carrinho", "Checkout", "Painel de pedidos"],
-    demo: false,
+    demo: true,
   },
   {
     id: "demo-sistema",
