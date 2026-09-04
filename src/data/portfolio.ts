@@ -62,10 +62,10 @@ export const portfolio: Project[] = [
     description: "Catálogo, carrinho e checkout com foco em reduzir atrito na compra.",
     goal: "Vender online sem depender de marketplaces.",
     solution: "Navegação por categorias, ficha de produto objetiva e fluxo de compra em poucas etapas.",
-    image: "",
+    image: "/ecomerce.jpg",
     technologies: ["React", "TypeScript", "Banco de dados", "Integrações"],
     features: ["Catálogo", "Carrinho", "Checkout", "Painel de pedidos"],
-    demo: true,
+    demo: false,
   },
   {
     id: "demo-sistema",
