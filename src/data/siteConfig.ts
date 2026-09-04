@@ -9,7 +9,7 @@
 
 export const siteConfig = {
   /** Nome exibido na navbar, rodapé e título das páginas. */
-  brand: "Ratify Studio",
+  brand: "Ratify Solutions",
   slogan: "Do simples ao extraordinário.",
   description:
     "Desenvolvimento de sites e soluções digitais sob medida — de páginas profissionais a sistemas completos.",
@@ -25,7 +25,7 @@ export const siteConfig = {
 
   /** Contatos e redes. Deixe vazio ("") para ocultar o link. */
   email: "estevanpainesgest@gmail.com",
-  instagram: "https://instagram.com/_ratifystore",
+  instagram: "https://instagram.com/ratify.solutions",
   github: "https://github.com/",
   /** Endereço/atendimento (opcional). */
   location: "Atendimento remoto — Brasil",
