@@ -5,7 +5,7 @@ import { WhatsAppButton } from "@/components/WhatsAppButton";
 import { SpotlightCard } from "@/components/SpotlightCard";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
-import heroImage from "@/assets/hero.jpg";
+import heroImage from "@/public/1dd58856b2d8c65989c995c88295092a.mp4";
 
 /**
  * HERO — grade "bento" arquitetônica: cada célula tem propósito próprio
