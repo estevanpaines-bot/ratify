@@ -41,7 +41,7 @@ export const portfolio: Project[] = [
     image: "/hero.jpg",
     technologies: ["React", "TypeScript", "Tailwind CSS"],
     features: ["Páginas institucionais", "Formulário de contato", "SEO estruturado", "Responsivo"],
-    demo: true,
+    demo: false,
   },
   {
     id: "demo-landing",
