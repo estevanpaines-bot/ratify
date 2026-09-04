@@ -86,10 +86,10 @@ export const portfolio: Project[] = [
     description: "Solução desenhada a partir de um processo específico do cliente.",
     goal: "Substituir um fluxo manual e repetitivo.",
     solution: "Mapeamento do processo, interface mínima e automação das etapas que não exigem decisão humana.",
-    image: "",
+    image: "/personalizadin.png",
     technologies: ["React", "TypeScript", "APIs"],
     features: ["Fluxo customizado", "Integrações", "Automação", "Histórico"],
-    demo: true,
+    demo: false,
   },
   {
     id: "demo-local",
