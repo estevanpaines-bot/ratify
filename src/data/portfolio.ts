@@ -38,7 +38,7 @@ export const portfolio: Project[] = [
     description: "Presença digital sóbria, com foco em credibilidade e captação de contatos.",
     goal: "Comunicar autoridade e facilitar o primeiro contato.",
     solution: "Estrutura de páginas enxuta, hierarquia tipográfica forte e CTA de WhatsApp presente em cada seção.",
-    image: "/teste.jpg",
+    image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=600&auto=format&fit=crop",
     technologies: ["React", "TypeScript", "Tailwind CSS"],
     features: ["Páginas institucionais", "Formulário de contato", "SEO estruturado", "Responsivo"],
     demo: false,
