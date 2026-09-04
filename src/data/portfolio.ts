@@ -98,9 +98,9 @@ export const portfolio: Project[] = [
     description: "Informações essenciais e contato imediato para quem busca perto de você.",
     goal: "Ser encontrado e receber contatos direto no WhatsApp.",
     solution: "Serviços, horários e localização acima da dobra, com botão de contato fixo no mobile.",
-    image: "",
+    image: "/negociolocal.png",
     technologies: ["React", "Tailwind CSS", "SEO local"],
     features: ["Horários e mapa", "Serviços", "WhatsApp fixo", "Mobile first"],
-    demo: true,
+    demo: false,
   },
 ];
