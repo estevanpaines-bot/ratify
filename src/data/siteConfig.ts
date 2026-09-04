@@ -9,7 +9,7 @@
 
 export const siteConfig = {
   /** Nome exibido na navbar, rodapé e título das páginas. */
-  brand: "Nexora Studio",
+  brand: "Ratify Studio",
   slogan: "Do simples ao extraordinário.",
   description:
     "Desenvolvimento de sites e soluções digitais sob medida — de páginas profissionais a sistemas completos.",
@@ -19,13 +19,13 @@ export const siteConfig = {
    * Formato internacional, apenas dígitos: 55 + DDD + número.
    * PLACEHOLDER — substitua pelo seu número real antes de publicar.
    */
-  whatsappNumber: "5500000000000",
+  whatsappNumber: "5551998327335",
   /** Mensagem usada quando um botão não define mensagem própria. */
   whatsappDefaultMessage: "Olá! Gostaria de criar um site.",
 
   /** Contatos e redes. Deixe vazio ("") para ocultar o link. */
-  email: "contato@exemplo.com.br",
-  instagram: "https://instagram.com/",
+  email: "estevanpainesgest@gmail.com",
+  instagram: "https://instagram.com/_ratifystore",
   github: "https://github.com/",
   /** Endereço/atendimento (opcional). */
   location: "Atendimento remoto — Brasil",
